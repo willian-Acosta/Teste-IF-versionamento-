@@ -1,0 +1,69 @@
+Aula do dia 02/03
+
+Introdução:
+
+Informática: é a ciência que estuda como processar, armazenar, transmitir e utilizar informações de forma rápida e eficiente através de máquinas e programas.
+
+O computador precisa de uma entrada de dados(nível de usuário), e então vai para o processamento e também para armazenamento (nível de máquina), e por último a saída(nível de usuário).
+
+Passos para resolver um problema real:
+Identificar o Problema
+Pensar em Soluções
+Usar as Ferramentas
+Avaliar os Resultados
+
+Tarefa:
+
+Criar uma metáfora (história) para o fluxo: Entrada ➔ Processamento ➔ Armazenamento ➔ Saída.
+Ferramentas: Gemini (Criação) e NotebookLM (Estruturação).
+
+Personagens 
+
+Darth Vader, ele dá  a entrada de dados/informações, passa isso para o comando onde acontece o processamento, representado pelos Stormtroopers do comando, depois essas informações são armazenadas nos computadores deles e a saída de dados seria os combatentes irem  fazer o trabalho sujo.
+
+Entrada de Dados: Darth Vader
+Processamento: Stormtrooper
+Armazenamento: Central Control Computer
+Saída: Os combatentes do Exército Imperial
+
+Introdução: O Império da Informação
+Entender como um computador funciona pode parecer complexo à primeira vista, mas os fundamentos da informática seguem uma lógica de fluxo muito clara: Entrada, Processamento, Armazenamento e Saída. Para ilustrar esses conceitos de forma didática e memorável, utilizaremos o universo de Star Wars como cenário.
+Nesta analogia, o Império Galáctico deixa de ser apenas uma força militar para se tornar um grande sistema computacional, onde cada figura icônica desempenha um papel técnico vital na execução de uma "missão" (ou programa).
+Veja a seguir como a hierarquia imperial explica perfeitamente a Arquitetura de Von Neumann:
+
+(Segue o texto produzido anteriormente)
+1. Entrada de Dados (Input): Darth Vader
+Vader atua como os dispositivos de entrada (teclado, mouse, sensores). Ele é a origem do comando externo que alimenta o sistema.
+Papel Técnico: Ele fornece as instruções brutas e os parâmetros da missão. Sem a "provocação" inicial do Vader, o sistema permanece em estado de espera (idle).
+No computador: É o clique que você dá ou o comando de voz que você inicia.
+2. Processamento (CPU): Stormtroopers do Comando
+Aqui, os Stormtroopers representam a Unidade Central de Processamento (CPU). Eles recebem as ordens complexas do Vader e as transformam em cálculos e ações lógicas.
+Papel Técnico: Eles interpretam o "código" do Vader, realizam a lógica de combate e coordenam a execução. Assim como uma CPU tem núcleos, o comando tem vários soldados trabalhando em paralelo para resolver o problema.
+No computador: É onde os dados são transformados; a "inteligência" operacional que decide o que fazer com a informação recebida.
+3. Armazenamento (Memory/Storage): Central Control Computer
+Este é o Banco de Dados ou o Disco Rígido (SSD/HD) do Império.
+Papel Técnico: Antes dos combatentes saírem, as estratégias, mapas estelares e registros de inteligência precisam ser consultados e salvos. É a memória não volátil que garante que a informação não se perca se o sistema "reiniciar".
+No computador: Onde os arquivos, o sistema operacional e os logs da missão ficam guardados para acesso rápido ou futuro.
+4. Saída de Dados (Output): Combatentes (Exército Imperial)
+Os soldados que vão a campo são os dispositivos de saída (monitor, impressora, atuadores robóticos).
+Papel Técnico: Eles são o resultado final e visível de todo o processo anterior. Se o Vader pediu uma invasão, a "saída" é a presença física dos soldados no planeta alvo. É o dado processado sendo convertido em uma ação ou visualização no mundo real.
+No computador: É a imagem que aparece na sua tela ou o documento que sai da impressora após o processamento ser concluído.
+
+Resumo da Analogia
+Personagem/Elemento
+Função na Informática
+Descrição Técnica
+Darth Vader
+Entrada (Input)
+Fornece as instruções e ordens iniciais.
+Stormtroopers (Comando)
+Processamento (CPU)
+Executam a lógica e transformam ordens em planos.
+Central Computer
+Armazenamento (Storage)
+Guarda dados, mapas e registros cruciais.
+Exército de Campo
+Saída (Output)
+O resultado final e visível da operação.
+
+
